@@ -1,8 +1,8 @@
 # Cloing-Micrsoft-Homepage
 
 Cloning Micrsoft Homepage using HTML5, CSS, Flex and Media Queries
+
 ![alt text](img/index1.JPG)
-![alt text](img/index_full.JPG)
 
 ## Getting Started
 
